@@ -1,2 +1,2 @@
-# FEMIntroToCS
+# algorithms-exercises
 Created with CodeSandbox
